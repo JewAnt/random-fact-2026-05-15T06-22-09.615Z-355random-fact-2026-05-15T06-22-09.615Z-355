@@ -1,2 +1,5 @@
-# random-fact-2026-05-15T06-22-09.615Z-355random-fact-2026-05-15T06-22-09.615Z-355
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Pitcher Darold Knowles once pitched all seven games of one World Series
+
+*Generated on 2026-05-15T06:22:12.114Z*
